@@ -1,0 +1,92 @@
+.saveForm {
+  text-align: center;
+  
+}
+.header{
+  font-size: 30px;
+  background-color: lightseagreen;
+  color: rgb(255, 255, 255);
+  display: flex;
+  text-align: center;
+  margin-right: 4rem;
+  text-align: right;
+  
+}
+.icon-image{
+  margin-top: 4rem;
+}
+.btn{
+  border-radius: 40px;
+  border: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 1rem 0;
+  padding: 2rem 3rem;
+  margin-top: 6rem;
+  text-transform: uppercase;
+  white-space: nowrap;
+  box-shadow: 0 0 5px cyan,
+  0 0 25px cyan;
+}
+.btn:hover{
+box-shadow: 0 0 5px cyan,
+0 0 25px cyan, 0 0 50px cyan,
+0 0 100px cyan, 0 0 200px cyan;
+}
+.save-btn{
+  
+ 
+  font-size: 1;
+  font-weight: 400;
+  margin: 0.5rem 0;
+  padding: 2rem 3rem;
+  text-transform: uppercase;
+  background-color: lightseagreen;
+  color: rgb(255, 255, 255);
+  
+ 
+}
+.cancel-btn{
+  
+  font-size: 1;
+  font-weight: 400;
+  margin: 0.5rem 0;
+  padding: 2rem 3rem;
+  text-transform: uppercase;
+  background-color: white;
+  color: red;
+}
+.add-schema{
+  font-size: 1;
+  font-weight: 400;
+  margin: 0.5rem 0;
+  /* padding: 2rem 3rem; */
+  text-transform: uppercase;
+  /* background-color: lightseagreen; */
+  color:lightseagreen;
+}
+
+
+.dot-blue{
+ 
+  color: lightseagreen;
+  
+}
+.dot-align{
+  margin-right: -84px;
+  margin-top: -2.8rem;
+}
+.dot-aligns{
+  margin-right: -22rem;
+    margin-top: -2.8rem;
+}
+
+.dot-red{
+  color: red;
+  margin-right: -16rem;
+  margin-top: -2.5rem;
+  
+}
+.delete-value{
+  color: lightseagreen;
+}
